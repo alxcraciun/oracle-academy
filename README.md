@@ -2,30 +2,37 @@
 
 ## Course Notes
 
-### Introduction 
+### Introduction
+<br> 
 
-#### SELECT 
+- [SELECT]()
 
-#### WHERE 
+- [WHERE]()
 
-#### ORDER BY
+- [ORDER BY]()
 
 ### Functions
+<br> 
 
-#### NULL
+- [NULL]()
 
-#### Date 
+- [Date]()
 
-#### Number 
+- [Number]()
 
-#### Character
+- [Character]()
 
-#### Conversion
+- [Conversion]()
 
-#### CASE & DECODE
+- [CASE & DECODE]()
 
 ### Joins
+<br> 
 
 ### Groups
+<br> 
 
 ### Subqueries
+<br>
+
+©︱alxcraciun
