@@ -2,16 +2,30 @@
 
 ## Course Notes
 
-1. Introduction & SELECT([Link](https://www.notion.so/alxcraciun/Introduction-SELECT-8fb84335b5aa4d06888ca643f669a9e0))
+### Introduction 
 
-2. WHERE & ORDER BY 
+#### SELECT 
 
-3. Function Fundamentals
+#### WHERE 
 
-4. Date 
+#### ORDER BY
 
-5. Number 
+### Functions
 
-6. Character 
+#### NULL
 
-7. Conversion 
+#### Date 
+
+#### Number 
+
+#### Character
+
+#### Conversion
+
+#### CASE & DECODE
+
+### Joins
+
+### Groups
+
+### Subqueries
