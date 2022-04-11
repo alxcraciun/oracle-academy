@@ -1,38 +1,43 @@
 # Oracle Academy 
 
-## Course Notes
 
-### Introduction
-<br> 
+# Course Notes
 
-- [SELECT]()
+## Introduction
 
-- [WHERE]()
+* [Intro](https://alxcraciun.notion.site/Introduction-SELECT-8fb84335b5aa4d06888ca643f669a9e0)
 
-- [ORDER BY]()
+* [SELECT]()
 
-### Functions
-<br> 
+* [WHERE](https://alxcraciun.notion.site/WHERE-ORDER-BY-35103b3fa653412cafa4ae52b73c8edb)
 
-- [NULL]()
+* [ORDER BY]()
 
-- [Date]()
 
-- [Number]()
+## Functions
 
-- [Character]()
+* [Intro](https://alxcraciun.notion.site/Function-Fundamentals-9e4448ec05504ab78c0793d1feb3e139)
 
-- [Conversion]()
+* [NULL](https://alxcraciun.notion.site/NULL-d765baab2b14490ab6bd697616ac2912)
 
-- [CASE & DECODE]()
+* [Date](https://alxcraciun.notion.site/Date-fa889754137c45c4bf47394450f5d512)
 
-### Joins
-<br> 
+* [Number](https://alxcraciun.notion.site/Number-c97c2bb2982844d79c208df8e681e7e5)
 
-### Groups
-<br> 
+* [Character](https://alxcraciun.notion.site/Character-6432ca5818b545688734f7c5b02f83cd)
 
-### Subqueries
-<br>
+* [Conversion](https://alxcraciun.notion.site/Conversion-8b090df1a48e443e8580ab3098d969ce)
+
+* [CASE & DECODE]()
+
+
+## Joins
+ 
+
+## Groups
+
+
+## Subqueries
+
 
 ©︱alxcraciun
