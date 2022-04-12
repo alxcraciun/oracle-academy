@@ -7,11 +7,11 @@
 
 * [Intro](https://alxcraciun.notion.site/Introduction-SELECT-8fb84335b5aa4d06888ca643f669a9e0)
 
-* [SELECT]()
+* [SELECT](https://alxcraciun.notion.site/SELECT-b4e536095d3d43ddafd3c302ac71b7f5)
 
 * [WHERE](https://alxcraciun.notion.site/WHERE-ORDER-BY-35103b3fa653412cafa4ae52b73c8edb)
 
-* [ORDER BY]()
+* [ORDER BY](https://alxcraciun.notion.site/ORDER-BY-d924272c717040d8aa66f4fac0e4e8dd)
 
 
 ## Functions
