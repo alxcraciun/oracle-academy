@@ -33,19 +33,119 @@
 
 * [Conversion](https://alxcraciun.notion.site/Conversion-8b090df1a48e443e8580ab3098d969ce)
 
-* [CASE & DECODE]()
+* [CASE & DECODE](https://alxcraciun.notion.site/CASE-DECODE-a512562d0e9f4d3ca1c0f3979c1edf11)
 
 <br>
 
 ## Joins
  
+* Introduction
+
+* Join Clauses
+
+* Inner & Outer Joins
+
+* Self-joins & Hierarchy
+
+* Equijoin & Cartesian Product
+
+* Non-equijoins & Outer Joins
+
 <br>
 
 ## Groups
 
+* Group Functions
+
+* COUNT & DISTINCT & NVL
+
+* GROUP BY & HAVING Clauses
+
+* Rollup & Cube Operations
+
+* Grouping Sets
+  
+* Set Operators
+
 <br>
 
 ## Subqueries
+
+* Subqueries Intro
+
+* Single-Row Queries
+
+* Multiple-Row Queries
+
+* Correlated Subqueries
+
+* Ensuring Quality Queries
+
+<br>
+
+## Data Manipulation & Views (DML)
+
+* INSERT
+
+* UPDATE
+
+* DELETE
+
+* DEFAULT
+
+* MERGE
+
+* INSERT ALL
+
+<br>
+
+## Data Definition (DDL)
+
+* CREATE
+
+* Data Types
+
+* Table Modifying
+
+<br>
+
+## Constraints
+
+* Constraints Intro
+
+* NOT NULL & UNIQUE
+
+* PRIMARY, FOREIGN & CHECK
+
+* Managing Constraints
+
+<br>
+
+## Advanced Objects
+
+* Views
+
+* Sequences
+
+* Indexes 
+
+* Synonyms
+
+<br>
+
+## Data Control (DCL)
+
+* Controlling User Access
+
+* Create & Revoke Privileges
+
+* Regular Expressions
+
+<br>
+
+## Transactional Control (TCL)
+
+* Database Transactions
 
 <br><br>
 ©︱alxcraciun
