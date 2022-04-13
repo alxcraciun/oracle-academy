@@ -39,113 +39,113 @@
 
 ## Joins
  
-* Introduction
+* [Introduction](https://alxcraciun.notion.site/Introduction-aa9e352dc65f4758931029bad6e3ce14)
 
-* Join Clauses
+* [Join Clauses](https://alxcraciun.notion.site/Join-Clauses-aeb8140fcab04639b669954bd19de965)
 
-* Inner & Outer Joins
+* [Inner & Outer Joins](https://alxcraciun.notion.site/Inner-Outer-Joins-9c35de8148ac41e89a0a02231c3392d6)
 
-* Self-joins & Hierarchy
+* [Self-joins & Hierarchy](https://alxcraciun.notion.site/Self-joins-Hierarchy-d43589833d6949e79ecc735175b1d900)
 
-* Equijoin & Cartesian Product
+* [Equijoin & Cartesian Product](https://alxcraciun.notion.site/Equijoin-Cartesian-Product-6267f796d03d4e48a010b3aefe42d526)
 
-* Non-equijoins & Outer Joins
+* [Non-equijoins & Outer Joins](https://alxcraciun.notion.site/Non-equijoins-Outer-Joins-5b22f95e1d4b4e61a26d76e8748a7bce)
 
 <br>
 
 ## Groups
 
-* Group Functions
+* [Group Functions Intro](https://alxcraciun.notion.site/Group-Functions-5723e4f3e73546ef8d990507d4f0eded)
 
-* COUNT & DISTINCT & NVL
+* [COUNT & DISTINCT & NVL](https://alxcraciun.notion.site/COUNT-DISTINCT-NVL-0489981abb0a4ceb9b8210cc25e954ea)
 
-* GROUP BY & HAVING Clauses
+* [GROUP BY & HAVING Clauses](https://alxcraciun.notion.site/GROUP-BY-HAVING-Clauses-f9e87aca84c4410d93957b4c8d4a335c)
 
-* Rollup & Cube Operations
+* [Rollup & Cube Operations](https://alxcraciun.notion.site/Rollup-Cube-Operations-d2136a9c9fba47a18d5cefff9631d346)
 
-* Grouping Sets
+* [Grouping Sets](https://alxcraciun.notion.site/Grouping-Sets-897bc2c687394eb1acdda04f5cbdadfb)
   
-* Set Operators
+* [Set Operators](https://alxcraciun.notion.site/Set-Operators-0ed7de2cebe241cea8e583d8822e2e9f)
 
 <br>
 
 ## Subqueries
 
-* Subqueries Intro
+* [Subqueries Intro](https://alxcraciun.notion.site/Subqueries-df66d6231ed345e0950d992fca7bbca0)
 
-* Single-Row Queries
+* [Single-Row Queries](https://alxcraciun.notion.site/Single-Row-Queries-283cf328433c4b6897c29f7e21ec50a4)
 
-* Multiple-Row Queries
+* [Multiple-Row Queries](https://alxcraciun.notion.site/Multiple-Row-Queries-e4079f939b7f4c8c8389959fb1ad6388)
 
-* Correlated Subqueries
+* [Correlated Subqueries](https://alxcraciun.notion.site/Correlated-Subqueries-553636f07d42498ca99d9a4dae27a26d)
 
-* Ensuring Quality Queries
+* [Ensuring Quality Queries](https://alxcraciun.notion.site/Ensuring-Quality-Queries-0c676094bd4e439f90653814f163871a)
 
 <br>
 
 ## Data Manipulation & Views (DML)
 
-* INSERT
+* [INSERT](https://alxcraciun.notion.site/INSERT-1d9f7f7bb8cb49159c9a824474d62873)
 
-* UPDATE
+* [UPDATE](https://alxcraciun.notion.site/UPDATE-36ac4b31702c4895ba08bf1653d88c39)
 
-* DELETE
+* [DELETE](https://alxcraciun.notion.site/DELETE-bc9a4f6cf0c74c89abc048e0d19f5fdd)
 
-* DEFAULT
+* [DEFAULT](https://alxcraciun.notion.site/DEFAULT-025edc3317374a53ab27ddbaaf96c917)
 
-* MERGE
+* [MERGE](https://alxcraciun.notion.site/MERGE-d28cf89323e34734b45d6e64b5941169)
 
-* INSERT ALL
+* [INSERT ALL](https://alxcraciun.notion.site/INSERT-ALL-2655dddaa1e2456d9d09c18302a8bc17)
 
 <br>
 
 ## Data Definition (DDL)
 
-* CREATE
+* [CREATE](https://alxcraciun.notion.site/CREATE-c9a7ec7d0abb4339b03e9799d046edba)
 
-* Data Types
+* [Data Types](https://alxcraciun.notion.site/Data-Types-6a51d8b708ef4e85ad71c9e9af6b31ae)
 
-* Table Modifying
+* [Table Modifying](https://alxcraciun.notion.site/Table-Modifying-47f38cacbd0f4af0ab08e0a1958df0bb)
 
 <br>
 
 ## Constraints
 
-* Constraints Intro
+* [Constraints Intro](https://alxcraciun.notion.site/Constraints-49c7845c67ba4516a025d87eefd96c25)
 
-* NOT NULL & UNIQUE
+* [NOT NULL & UNIQUE](https://alxcraciun.notion.site/NOT-NULL-UNIQUE-9503623960524d9b8c07921e669bdb49)
 
-* PRIMARY, FOREIGN & CHECK
+* [PRIMARY, FOREIGN & CHECK](https://alxcraciun.notion.site/PRIMARY-FOREIGN-CHECK-64d577ffb2d34a15aaceedbb57a0089d)
 
-* Managing Constraints
+* [Managing Constraints](https://alxcraciun.notion.site/Managing-Constraints-0edb8d6227f54963bd65713cda0baf46)
 
 <br>
 
 ## Advanced Objects
 
-* Views
+* [Views](https://alxcraciun.notion.site/Views-feb643c500094944bb949e925c3589a0)
 
-* Sequences
+* [Sequences](https://alxcraciun.notion.site/Sequences-5abfc19a500641c0b99015a69c38d524)
 
-* Indexes 
+* [Indexes](https://alxcraciun.notion.site/Indexes-dd8c61d0d9924c6b84b1bcdc9d93e8dd)
 
-* Synonyms
+* [Synonyms](https://alxcraciun.notion.site/Synonyms-8acbb0a95d234a3daff5dd77425e9fa6)
 
 <br>
 
 ## Data Control (DCL)
 
-* Controlling User Access
+* [Controlling User Access](https://alxcraciun.notion.site/Controlling-User-Access-8bd91c828e824b14a96362d80a6bf268)
 
-* Create & Revoke Privileges
+* [Create & Revoke Privileges](https://alxcraciun.notion.site/Create-Revoke-Privileges-0bda03d3728b4f3d80eadc7eb76807c3)
 
-* Regular Expressions
+* [Regular Expressions](https://alxcraciun.notion.site/Regular-Expressions-0d41bb3c0ff94d9682e74bd9300d476c)
 
 <br>
 
 ## Transactional Control (TCL)
 
-* Database Transactions
+* [Database Transactions](https://alxcraciun.notion.site/Database-Transactions-1bf4a7a1841a461daa088895eb3ae85e)
 
 <br><br>
 ©︱alxcraciun
