@@ -147,5 +147,5 @@
 
 * [Database Transactions](https://alxcraciun.notion.site/Database-Transactions-1bf4a7a1841a461daa088895eb3ae85e)
 
-<br><br>
+<br>
 ©︱alxcraciun
