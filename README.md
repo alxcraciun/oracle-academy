@@ -79,7 +79,7 @@
 
 <br>
 
-## Data Manipulation & Views (DML)
+## Data Manipulation (DML)
 
 * [INSERT](https://alxcraciun.notion.site/INSERT-1d9f7f7bb8cb49159c9a824474d62873)
 
