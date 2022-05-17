@@ -9,7 +9,7 @@
 
 ## Introduction
 
-* [Intro](https://alxcraciun.notion.site/Introduction-SELECT-8fb84335b5aa4d06888ca643f669a9e0)
+* [Oracle](https://alxcraciun.notion.site/Introduction-SELECT-8fb84335b5aa4d06888ca643f669a9e0)
 
 * [SELECT](https://alxcraciun.notion.site/SELECT-b4e536095d3d43ddafd3c302ac71b7f5)
 
@@ -21,7 +21,7 @@
 
 ## Functions
 
-* [Intro](https://alxcraciun.notion.site/Function-Fundamentals-9e4448ec05504ab78c0793d1feb3e139)
+* [Introduction](https://alxcraciun.notion.site/Function-Fundamentals-9e4448ec05504ab78c0793d1feb3e139)
 
 * [NULL](https://alxcraciun.notion.site/NULL-d765baab2b14490ab6bd697616ac2912)
 
@@ -39,13 +39,13 @@
 
 ## Joins
  
-* [Introduction](https://alxcraciun.notion.site/Introduction-aa9e352dc65f4758931029bad6e3ce14)
+* [Join Clauses](https://alxcraciun.notion.site/Introduction-Join-Clauses-aa9e352dc65f4758931029bad6e3ce14)
 
-* [Join Clauses](https://alxcraciun.notion.site/Join-Clauses-aeb8140fcab04639b669954bd19de965)
+* [Natural & Cross Join](https://alxcraciun.notion.site/NATURAL-CROSS-JOIN-aeb8140fcab04639b669954bd19de965)
 
-* [Inner & Outer Joins](https://alxcraciun.notion.site/Inner-Outer-Joins-9c35de8148ac41e89a0a02231c3392d6)
+* [Inner & Outer Join](https://alxcraciun.notion.site/Inner-Outer-Joins-9c35de8148ac41e89a0a02231c3392d6)
 
-* [Self-joins & Hierarchy](https://alxcraciun.notion.site/Self-joins-Hierarchy-d43589833d6949e79ecc735175b1d900)
+* [Self-joins & Hierarchy](https://alxcraciun.notion.site/NATURAL-CROSS-JOIN-aeb8140fcab04639b669954bd19de965)
 
 * [Equijoin & Cartesian Product](https://alxcraciun.notion.site/Equijoin-Cartesian-Product-6267f796d03d4e48a010b3aefe42d526)
 
@@ -55,15 +55,13 @@
 
 ## Groups
 
-* [Group Functions Intro](https://alxcraciun.notion.site/Group-Functions-5723e4f3e73546ef8d990507d4f0eded)
+* [Group Functions](https://alxcraciun.notion.site/Group-Functions-5723e4f3e73546ef8d990507d4f0eded)
 
 * [COUNT & DISTINCT & NVL](https://alxcraciun.notion.site/COUNT-DISTINCT-NVL-0489981abb0a4ceb9b8210cc25e954ea)
 
 * [GROUP BY & HAVING Clauses](https://alxcraciun.notion.site/GROUP-BY-HAVING-Clauses-f9e87aca84c4410d93957b4c8d4a335c)
 
-* [Rollup & Cube Operations](https://alxcraciun.notion.site/Rollup-Cube-Operations-d2136a9c9fba47a18d5cefff9631d346)
-
-* [Grouping Sets](https://alxcraciun.notion.site/Grouping-Sets-897bc2c687394eb1acdda04f5cbdadfb)
+* [Rollup & Cube & Grouping](https://alxcraciun.notion.site/Rollup-Cube-Operations-d2136a9c9fba47a18d5cefff9631d346)
   
 * [Set Operators](https://alxcraciun.notion.site/Set-Operators-0ed7de2cebe241cea8e583d8822e2e9f)
 
@@ -71,15 +69,13 @@
 
 ## Subqueries
 
-* [Subqueries Intro](https://alxcraciun.notion.site/Subqueries-df66d6231ed345e0950d992fca7bbca0)
+* [Subqueries](https://alxcraciun.notion.site/Subqueries-df66d6231ed345e0950d992fca7bbca0)
 
 * [Single-Row Queries](https://alxcraciun.notion.site/Single-Row-Queries-283cf328433c4b6897c29f7e21ec50a4)
 
 * [Multiple-Row Queries](https://alxcraciun.notion.site/Multiple-Row-Queries-e4079f939b7f4c8c8389959fb1ad6388)
 
 * [Correlated Subqueries](https://alxcraciun.notion.site/Correlated-Subqueries-553636f07d42498ca99d9a4dae27a26d)
-
-* [Ensuring Quality Queries](https://alxcraciun.notion.site/Ensuring-Quality-Queries-0c676094bd4e439f90653814f163871a)
 
 <br>
 
@@ -109,19 +105,9 @@
 
 <br>
 
-## Constraints
-
-* [Constraints Intro](https://alxcraciun.notion.site/Constraints-49c7845c67ba4516a025d87eefd96c25)
-
-* [NOT NULL & UNIQUE](https://alxcraciun.notion.site/NOT-NULL-UNIQUE-9503623960524d9b8c07921e669bdb49)
-
-* [PRIMARY, FOREIGN & CHECK](https://alxcraciun.notion.site/PRIMARY-FOREIGN-CHECK-64d577ffb2d34a15aaceedbb57a0089d)
-
-* [Managing Constraints](https://alxcraciun.notion.site/Managing-Constraints-0edb8d6227f54963bd65713cda0baf46)
-
-<br>
-
 ## Advanced Objects
+
+* [Constraints](https://alxcraciun.notion.site/Constraints-49c7845c67ba4516a025d87eefd96c25)
 
 * [Views](https://alxcraciun.notion.site/Views-feb643c500094944bb949e925c3589a0)
 
@@ -146,6 +132,14 @@
 ## Transactional Control (TCL)
 
 * [Database Transactions](https://alxcraciun.notion.site/Database-Transactions-1bf4a7a1841a461daa088895eb3ae85e)
+
+## Final Exam & Glossary
+
+* [Testing](https://alxcraciun.notion.site/Testing-383e4f42f3224e36a936962d00504887)
+
+* [Glossary](https://alxcraciun.notion.site/Glossary-9fcbfdc65cfb415f925fbb2ba020fe7d)
+
+* [Questions](https://alxcraciun.notion.site/Questions-4cb2e5ab251a46f588fc8eacc7876b73)
 
 <br>
 ©︱alxcraciun
