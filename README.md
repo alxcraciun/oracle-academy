@@ -133,6 +133,8 @@
 
 * [Database Transactions](https://alxcraciun.notion.site/Database-Transactions-1bf4a7a1841a461daa088895eb3ae85e)
 
+<br>
+
 ## Final Exam & Glossary
 
 * [Testing](https://alxcraciun.notion.site/Testing-383e4f42f3224e36a936962d00504887)
