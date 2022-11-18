@@ -1,8 +1,5 @@
 # Oracle Academy 
 
-
-# Course Notes
-
 > *Here is the [Notion page](https://alxcraciun.notion.site/Oracle-5d24e6afa7e341e29b87292a8b1498fe) with all the notes I've taken from the course [Databases Programming with SQL](https://academy.oracle.com/pages/database_design_course.pdf) from [Oracle Academy](https://academy.oracle.com/en/oa-web-overview.html). Bellow you can find a brief preview with my notes from every chapter.*
 
 <br>
